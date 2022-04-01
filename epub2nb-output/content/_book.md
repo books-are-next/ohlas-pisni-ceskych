@@ -2,11 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Ohlas písní českých
   identifier: 62ba0934-96a6-4765-abd2-228cea2ed11f
   author: František Ladislav Čelakovský
+  edition: beletrie
+  publisherShort: mkp
+  publisher: Městská knihovna v Praze
 readingOrder:
   - section0001.html
   - section0061.html
@@ -73,6 +78,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
