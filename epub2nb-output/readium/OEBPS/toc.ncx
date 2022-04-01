@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="62ba0934-96a6-4765-abd2-228cea2ed11f"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>Ohlas písní českých</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>TOMAN A LESNÍ PANNA</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>JÍZDA K MILÉ</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>CELOROČNÍ VÝŽIVA</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>STASA ČARODĚJNICE</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+                <text>DOBRÉ NAUČENÍ</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+                <text>PRAŽSKÁ</text>
+            </navLabel>
+            <content src="Text/Section0007.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel>
+                <text>LUŇÁK</text>
+            </navLabel>
+            <content src="Text/Section0008.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel>
+                <text>STARÝ ZAHRADNÍK</text>
+            </navLabel>
+            <content src="Text/Section0009.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+                <text>PROKOP HOLÝ</text>
+            </navLabel>
+            <content src="Text/Section0010.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+                <text>ŽEHRAVÝ</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+                <text>RADOST A ŽALOST</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+                <text>DÁREK Z POUTI</text>
+            </navLabel>
+            <content src="Text/Section0013.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+                <text>PEČLIVÁ MILÁ</text>
+            </navLabel>
+            <content src="Text/Section0014.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+                <text>DRAHÝ ZPĚVÁK</text>
+            </navLabel>
+            <content src="Text/Section0015.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+                <text>ODBYTÝ</text>
+            </navLabel>
+            <content src="Text/Section0016.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+                <text>CIKÁNOVA PÍŠŤALKA</text>
+            </navLabel>
+            <content src="Text/Section0017.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+                <text>SLZY A VZDYCHÁNÍ</text>
+            </navLabel>
+            <content src="Text/Section0018.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+                <text>NEVĚRNÝ MILÝ</text>
+            </navLabel>
+            <content src="Text/Section0019.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+                <text>SŇATEK</text>
+            </navLabel>
+            <content src="Text/Section0020.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+                <text>MILÝ NADE VŠECKO</text>
+            </navLabel>
+            <content src="Text/Section0021.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+                <text>DÍVČINA JAK DOBRÁ HODINA</text>
+            </navLabel>
+            <content src="Text/Section0022.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+                <text>KROTKÁ HOLUBIČKA</text>
+            </navLabel>
+            <content src="Text/Section0023.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+                <text>DÁREK Z LÁSKY</text>
+            </navLabel>
+            <content src="Text/Section0024.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+                <text>POCESTNÝ</text>
+            </navLabel>
+            <content src="Text/Section0025.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+                <text>A CO DÁL - TO NEPOVÍM</text>
+            </navLabel>
+            <content src="Text/Section0026.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+                <text>DĚTSKÁ</text>
+            </navLabel>
+            <content src="Text/Section0027.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+                <text>JARNÍ</text>
+            </navLabel>
+            <content src="Text/Section0028.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+                <text>ZIMNÍ</text>
+            </navLabel>
+            <content src="Text/Section0029.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+                <text>NEBLAHÉ SEJITÍ</text>
+            </navLabel>
+            <content src="Text/Section0030.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+                <text>PTÁČE</text>
+            </navLabel>
+            <content src="Text/Section0031.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+                <text>VÝMLUVA</text>
+            </navLabel>
+            <content src="Text/Section0032.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+            <navLabel>
+                <text>VÁVRA</text>
+            </navLabel>
+            <content src="Text/Section0033.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+                <text>POMLUVA</text>
+            </navLabel>
+            <content src="Text/Section0034.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+                <text>POMILOVÁNÍ</text>
+            </navLabel>
+            <content src="Text/Section0035.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+                <text>MOCNOST OČÍ</text>
+            </navLabel>
+            <content src="Text/Section0036.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+                <text>KYTIČKY</text>
+            </navLabel>
+            <content src="Text/Section0037.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+                <text>STATEČNÝ JONÁK</text>
+            </navLabel>
+            <content src="Text/Section0038.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+                <text>SVATEBNÍ DEN</text>
+            </navLabel>
+            <content src="Text/Section0039.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>POMOC PRO NÁRAMNOU LÁSKU</text>
+            </navLabel>
+            <content src="Text/Section0040.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+                <text>UPRANÝ</text>
+            </navLabel>
+            <content src="Text/Section0041.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+                <text>JANEK</text>
+            </navLabel>
+            <content src="Text/Section0042.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+                <text>PO PRÁCI</text>
+            </navLabel>
+            <content src="Text/Section0043.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+                <text>POSLEDNÍ VŮLE</text>
+            </navLabel>
+            <content src="Text/Section0044.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+                <text>ROZPAKY</text>
+            </navLabel>
+            <content src="Text/Section0045.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+            <navLabel>
+                <text>ČESKÝ SEDLÁK</text>
+            </navLabel>
+            <content src="Text/Section0046.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+            <navLabel>
+                <text>KRÁSNÁ KORDULA</text>
+            </navLabel>
+            <content src="Text/Section0047.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+                <text>VRCHNÍ Z KOZLOVA</text>
+            </navLabel>
+            <content src="Text/Section0048.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+                <text>HUBIČKA</text>
+            </navLabel>
+            <content src="Text/Section0049.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+                <text>ODBYTÍ</text>
+            </navLabel>
+            <content src="Text/Section0050.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+                <text>PŘEMÝŠLENÍ</text>
+            </navLabel>
+            <content src="Text/Section0051.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+                <text>VESELÁ JÍZDA</text>
+            </navLabel>
+            <content src="Text/Section0052.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+                <text>VRACOVÁNÍ SE OD MILÉ</text>
+            </navLabel>
+            <content src="Text/Section0053.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+                <text>ZRUŠENÍ SLIBU</text>
+            </navLabel>
+            <content src="Text/Section0054.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+                <text>VZRŮST</text>
+            </navLabel>
+            <content src="Text/Section0055.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+                <text>ZMIZELÁ RADOST</text>
+            </navLabel>
+            <content src="Text/Section0056.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+                <text>KALENDÁR A NE FARÁR</text>
+            </navLabel>
+            <content src="Text/Section0057.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+                <text>POPĚVKY</text>
+            </navLabel>
+            <content src="Text/Section0058.xhtml#heading_id_3"/>
+        </navPoint>
+    </navMap>
+</ncx>

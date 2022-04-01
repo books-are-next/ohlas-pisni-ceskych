@@ -1,0 +1,509 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ohlas písní českých",
+    "identifier": "62ba0934-96a6-4765-abd2-228cea2ed11f",
+    "author": "František Ladislav Čelakovský",
+    "language": "cs",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0059.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "TOMAN A LESNÍ PANNA",
+      "href": "OEBPS/Text/Section0002.xhtml#heading_id_3"
+    },
+    {
+      "title": "JÍZDA K MILÉ",
+      "href": "OEBPS/Text/Section0003.xhtml#heading_id_3"
+    },
+    {
+      "title": "CELOROČNÍ VÝŽIVA",
+      "href": "OEBPS/Text/Section0004.xhtml#heading_id_3"
+    },
+    {
+      "title": "STASA ČARODĚJNICE",
+      "href": "OEBPS/Text/Section0005.xhtml#heading_id_3"
+    },
+    {
+      "title": "DOBRÉ NAUČENÍ",
+      "href": "OEBPS/Text/Section0006.xhtml#heading_id_3"
+    },
+    {
+      "title": "PRAŽSKÁ",
+      "href": "OEBPS/Text/Section0007.xhtml#heading_id_3"
+    },
+    {
+      "title": "LUŇÁK",
+      "href": "OEBPS/Text/Section0008.xhtml#heading_id_3"
+    },
+    {
+      "title": "STARÝ ZAHRADNÍK",
+      "href": "OEBPS/Text/Section0009.xhtml#heading_id_3"
+    },
+    {
+      "title": "PROKOP HOLÝ",
+      "href": "OEBPS/Text/Section0010.xhtml#heading_id_3"
+    },
+    {
+      "title": "ŽEHRAVÝ",
+      "href": "OEBPS/Text/Section0011.xhtml#heading_id_3"
+    },
+    {
+      "title": "RADOST A ŽALOST",
+      "href": "OEBPS/Text/Section0012.xhtml#heading_id_3"
+    },
+    {
+      "title": "DÁREK Z POUTI",
+      "href": "OEBPS/Text/Section0013.xhtml#heading_id_3"
+    },
+    {
+      "title": "PEČLIVÁ MILÁ",
+      "href": "OEBPS/Text/Section0014.xhtml#heading_id_3"
+    },
+    {
+      "title": "DRAHÝ ZPĚVÁK",
+      "href": "OEBPS/Text/Section0015.xhtml#heading_id_3"
+    },
+    {
+      "title": "ODBYTÝ",
+      "href": "OEBPS/Text/Section0016.xhtml#heading_id_3"
+    },
+    {
+      "title": "CIKÁNOVA PÍŠŤALKA",
+      "href": "OEBPS/Text/Section0017.xhtml#heading_id_3"
+    },
+    {
+      "title": "SLZY A VZDYCHÁNÍ",
+      "href": "OEBPS/Text/Section0018.xhtml#heading_id_3"
+    },
+    {
+      "title": "NEVĚRNÝ MILÝ",
+      "href": "OEBPS/Text/Section0019.xhtml#heading_id_3"
+    },
+    {
+      "title": "SŇATEK",
+      "href": "OEBPS/Text/Section0020.xhtml#heading_id_3"
+    },
+    {
+      "title": "MILÝ NADE VŠECKO",
+      "href": "OEBPS/Text/Section0021.xhtml#heading_id_3"
+    },
+    {
+      "title": "DÍVČINA JAK DOBRÁ HODINA",
+      "href": "OEBPS/Text/Section0022.xhtml#heading_id_3"
+    },
+    {
+      "title": "KROTKÁ HOLUBIČKA",
+      "href": "OEBPS/Text/Section0023.xhtml#heading_id_3"
+    },
+    {
+      "title": "DÁREK Z LÁSKY",
+      "href": "OEBPS/Text/Section0024.xhtml#heading_id_3"
+    },
+    {
+      "title": "POCESTNÝ",
+      "href": "OEBPS/Text/Section0025.xhtml#heading_id_3"
+    },
+    {
+      "title": "A CO DÁL - TO NEPOVÍM",
+      "href": "OEBPS/Text/Section0026.xhtml#heading_id_3"
+    },
+    {
+      "title": "DĚTSKÁ",
+      "href": "OEBPS/Text/Section0027.xhtml#heading_id_3"
+    },
+    {
+      "title": "JARNÍ",
+      "href": "OEBPS/Text/Section0028.xhtml#heading_id_3"
+    },
+    {
+      "title": "ZIMNÍ",
+      "href": "OEBPS/Text/Section0029.xhtml#heading_id_3"
+    },
+    {
+      "title": "NEBLAHÉ SEJITÍ",
+      "href": "OEBPS/Text/Section0030.xhtml#heading_id_3"
+    },
+    {
+      "title": "PTÁČE",
+      "href": "OEBPS/Text/Section0031.xhtml#heading_id_3"
+    },
+    {
+      "title": "VÝMLUVA",
+      "href": "OEBPS/Text/Section0032.xhtml#heading_id_3"
+    },
+    {
+      "title": "VÁVRA",
+      "href": "OEBPS/Text/Section0033.xhtml#heading_id_3"
+    },
+    {
+      "title": "POMLUVA",
+      "href": "OEBPS/Text/Section0034.xhtml#heading_id_3"
+    },
+    {
+      "title": "POMILOVÁNÍ",
+      "href": "OEBPS/Text/Section0035.xhtml#heading_id_3"
+    },
+    {
+      "title": "MOCNOST OČÍ",
+      "href": "OEBPS/Text/Section0036.xhtml#heading_id_3"
+    },
+    {
+      "title": "KYTIČKY",
+      "href": "OEBPS/Text/Section0037.xhtml#heading_id_3"
+    },
+    {
+      "title": "STATEČNÝ JONÁK",
+      "href": "OEBPS/Text/Section0038.xhtml#heading_id_3"
+    },
+    {
+      "title": "SVATEBNÍ DEN",
+      "href": "OEBPS/Text/Section0039.xhtml#heading_id_3"
+    },
+    {
+      "title": "POMOC PRO NÁRAMNOU LÁSKU",
+      "href": "OEBPS/Text/Section0040.xhtml#heading_id_3"
+    },
+    {
+      "title": "UPRANÝ",
+      "href": "OEBPS/Text/Section0041.xhtml#heading_id_3"
+    },
+    {
+      "title": "JANEK",
+      "href": "OEBPS/Text/Section0042.xhtml#heading_id_3"
+    },
+    {
+      "title": "PO PRÁCI",
+      "href": "OEBPS/Text/Section0043.xhtml#heading_id_3"
+    },
+    {
+      "title": "POSLEDNÍ VŮLE",
+      "href": "OEBPS/Text/Section0044.xhtml#heading_id_3"
+    },
+    {
+      "title": "ROZPAKY",
+      "href": "OEBPS/Text/Section0045.xhtml#heading_id_3"
+    },
+    {
+      "title": "ČESKÝ SEDLÁK",
+      "href": "OEBPS/Text/Section0046.xhtml#heading_id_3"
+    },
+    {
+      "title": "KRÁSNÁ KORDULA",
+      "href": "OEBPS/Text/Section0047.xhtml#heading_id_3"
+    },
+    {
+      "title": "VRCHNÍ Z KOZLOVA",
+      "href": "OEBPS/Text/Section0048.xhtml#heading_id_3"
+    },
+    {
+      "title": "HUBIČKA",
+      "href": "OEBPS/Text/Section0049.xhtml#heading_id_3"
+    },
+    {
+      "title": "ODBYTÍ",
+      "href": "OEBPS/Text/Section0050.xhtml#heading_id_3"
+    },
+    {
+      "title": "PŘEMÝŠLENÍ",
+      "href": "OEBPS/Text/Section0051.xhtml#heading_id_3"
+    },
+    {
+      "title": "VESELÁ JÍZDA",
+      "href": "OEBPS/Text/Section0052.xhtml#heading_id_3"
+    },
+    {
+      "title": "VRACOVÁNÍ SE OD MILÉ",
+      "href": "OEBPS/Text/Section0053.xhtml#heading_id_3"
+    },
+    {
+      "title": "ZRUŠENÍ SLIBU",
+      "href": "OEBPS/Text/Section0054.xhtml#heading_id_3"
+    },
+    {
+      "title": "VZRŮST",
+      "href": "OEBPS/Text/Section0055.xhtml#heading_id_3"
+    },
+    {
+      "title": "ZMIZELÁ RADOST",
+      "href": "OEBPS/Text/Section0056.xhtml#heading_id_3"
+    },
+    {
+      "title": "KALENDÁR A NE FARÁR",
+      "href": "OEBPS/Text/Section0057.xhtml#heading_id_3"
+    },
+    {
+      "title": "POPĚVKY",
+      "href": "OEBPS/Text/Section0058.xhtml#heading_id_3"
+    }
+  ]
+}
