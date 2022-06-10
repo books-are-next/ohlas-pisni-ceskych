@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## LI  
 
 ## VESELÁ JÍZDA 
@@ -69,3 +71,5 @@ je to jízda čistá!
 Bláta po nápravy,
 
 nemůžeme s místa.
+
+</section>

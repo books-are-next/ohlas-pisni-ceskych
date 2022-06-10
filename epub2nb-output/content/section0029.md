@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXVIII  
 
 ## ZIMNÍ
@@ -45,3 +47,5 @@ ale nenachází:
 tak mi také bez milého
 
 zima ta prochází.
+
+</section>

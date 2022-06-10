@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XI  
 
 ## RADOST A ŽALOST
@@ -37,3 +39,5 @@ než mu hořkost povysuší;
 kolik slzí uplyne,
 
 nežli v nich se rozplyne.
+
+</section>

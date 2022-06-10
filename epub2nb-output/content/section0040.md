@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXIX  
 
 ## POMOC PRO NÁRAMNOU LÁSKU
@@ -37,3 +39,5 @@ hlubokém, hlubokém,
 zas mě vytrousíš po světě
 
 širokém, širokém.“
+
+</section>

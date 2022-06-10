@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLVI  
 
 ## KRÁSNÁ KORDULA
@@ -229,3 +231,5 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>

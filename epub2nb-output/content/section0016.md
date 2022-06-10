@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XV  
 
 ## ODBYTÝ
@@ -29,3 +31,5 @@ nadělej si příštipečků;
 nech si, nech si, nech si je,
 
 táta to je přišije.“
+
+</section>

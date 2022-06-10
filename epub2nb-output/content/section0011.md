@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## X  
 
 ## ŽEHRAVÝ
@@ -109,3 +111,5 @@ byl jsi nelaskavým,
 dělal jsi mně křivdu,
 
 přece tě pohladím.
+
+</section>

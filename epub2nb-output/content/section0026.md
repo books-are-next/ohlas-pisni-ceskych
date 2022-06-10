@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXV  
 
 ## A CO DÁL - TO NEPOVÍM
@@ -33,3 +35,5 @@ pak bělounké mé punčošky;
 a co dále — ač to vím,
 
 ne, ne, ne, to nepovím!
+
+</section>

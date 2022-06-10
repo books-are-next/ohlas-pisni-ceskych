@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XIV  
 
 ## DRAHÝ ZPĚVÁK
@@ -25,3 +27,5 @@ na pěknou kytičku,
 tolik též hubiček
 
 na hezkou písničku.
+
+</section>

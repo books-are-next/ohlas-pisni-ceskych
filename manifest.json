@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "celakovsky-ohlas-pisni-ceskych-e3f1242",
-  "revision": "e3f1242",
+  "identifier": "celakovsky-ohlas-pisni-ceskych-38ebe3b",
+  "revision": "38ebe3b",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -75,8 +75,8 @@
     "section0059.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870683861
+    "date": "Fri Jun 10 2022 17:53:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883588987
   },
   "documents": [
     {
@@ -94,9 +94,9 @@
     {
       "title": "Ohlas písní českých",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -2219,14 +2219,14 @@
   ],
   "totals": {
     "all": {
-      "words": 6320,
+      "words": 6321,
       "chars": 35189,
-      "ideas": 1700
+      "ideas": 1701
     },
     "chapters": {
-      "words": 6311,
+      "words": 6312,
       "chars": 35125,
-      "ideas": 1695
+      "ideas": 1696
     }
   }
 }

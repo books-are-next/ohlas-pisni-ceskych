@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXII  
 
 ## VÁVRA
@@ -45,3 +47,5 @@ nese v mošně kozí bobky;
 zas si zpívá cestičkou,
 
 že má mošnu plničkou.
+
+</section>

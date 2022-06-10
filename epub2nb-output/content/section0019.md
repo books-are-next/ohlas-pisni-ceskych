@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XVIII  
 
 ## NEVĚRNÝ MILÝ
@@ -45,3 +47,5 @@ můj milý, oželím;
 ale mé lásky k tobě
 
 přestanu želet v hrobě.
+
+</section>

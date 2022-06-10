@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXIX  
 
 ## NEBLAHÉ SEJITÍ
@@ -47,3 +49,5 @@ a s rosičkou plakávala;
 lásku jsem vyplakala,
 
 jinému se dostala.“
+
+</section>

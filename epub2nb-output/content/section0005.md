@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## IV  
 
 ## STASA ČARODĚJNICE
@@ -53,3 +55,5 @@ kantorovic Stasu,
 než okouzlí, očaruje
 
 všechnu naši chasu.
+
+</section>

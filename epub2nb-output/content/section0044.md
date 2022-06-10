@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLIII  
 
 ## POSLEDNÍ VŮLE
@@ -25,3 +27,5 @@ ať tam na mém hrobu
 pro věčnou ozdobu
 
 stojí jako šilboch.“
+
+</section>

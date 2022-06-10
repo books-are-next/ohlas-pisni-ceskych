@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XII  
 
 ## DÁREK Z POUTI
@@ -59,3 +61,5 @@ hezkého děvčátky!“
 Potom si ji připnu
 
 na klobouk za kytičku.
+
+</section>

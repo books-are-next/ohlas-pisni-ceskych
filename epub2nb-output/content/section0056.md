@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## LV  
 
 ## ZMIZELÁ RADOST
@@ -29,3 +31,5 @@ ani mezi hvězdami:
 větrové ji odvanuli,
 
 odplynula s řekami.
+
+</section>

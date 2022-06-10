@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLI  
 
 ## JANEK
@@ -21,3 +23,5 @@ přijdem-li do Lhoty?
 Kudy tam, kudy, Janku, kudy tam?
 
 „Tudy tam, tudy, páni, tudy tam.“
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## V  
 
 ## DOBRÉ NAUČENÍ
@@ -21,3 +23,5 @@ víc láska netěší:
 kdo se ráno neměl k světu,
 
 večír to pohřeší.
+
+</section>

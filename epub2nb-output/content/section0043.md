@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLII  
 
 ## PO PRÁCI
@@ -45,3 +47,5 @@ všecko vysázeli:
 Pán Bůh požehnání
 
 práci té udělí.
+
+</section>
