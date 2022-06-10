@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 Znění tohoto textu vychází z díla Ohlas písní ruských. Ohlas písní českých tak, jak bylo vydáno Státním nakladatelství dětské knihy v roce 1954 (ČELAKOVSKÝ, František Ladislav. Ohlas písní ruských. Ohlas písní českých. 1. vyd. v SNDK. Praha: Státní nakladatelství dětské knihy, 1954. 223 s.).
