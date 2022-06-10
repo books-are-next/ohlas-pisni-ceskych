@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLV  
 
 ## ČESKÝ SEDLÁK
@@ -45,3 +47,5 @@ za vraty vejská si, —
 strčil urozenost
 
 s rozumem do kapsy.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## LIV  
 
 ## VZRŮST
@@ -29,3 +31,5 @@ u nohou na špičky,
 také snadňounko vysáhnu
 
 k němu pro hubičky.
+
+</section>

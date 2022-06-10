@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXIV  
 
 ## POCESTNÝ
@@ -53,3 +55,5 @@ přejedem a přejdem,
 v jedné hospodě na nocleh
 
 pán nepán se sejdem.
+
+</section>

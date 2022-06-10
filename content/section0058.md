@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## LVII  
 
 ## POPĚVKY
@@ -20,7 +22,9 @@ bych jí ho přepustila,
 
 ach, co jsem učinila!
 
-  
+</section>
+
+<section>
 
 ### COŽ JE VÍC
 
@@ -36,7 +40,9 @@ vylezu na kopeček,
 
 vyhlídnu si jinou.
 
-  
+</section>
+
+<section>
 
 ### PRAVÁ VESELOST
 
@@ -48,7 +54,9 @@ Připijme si, sedláčkové, za zdraví,
 
 sic nás o tu halenu čert připraví.
 
-  
+</section>
+
+<section>
 
 ### VNOUČATA K DĚDEČKOVI
 
@@ -64,7 +72,9 @@ pojď s námi, u rybníčku
 
 ohřej se na sluníčku,
 
-  
+</section>
+
+<section>
 
 ### PŘÍPOVĚĎ
 
@@ -80,7 +90,9 @@ Co jste mně slíbily u lesíčku,
 
 již si jdu k vám pro to při měsíčku.
 
-  
+</section>
+
+<section>
 
 ### ZVĚŘINA
 
@@ -92,7 +104,9 @@ dvě veverky, hlavy ptačí,
 
 z vaku mu koukalo hnízdo stračí.
 
-  
+</section>
+
+<section>
 
 ### KRATIČKÁ MODLITBA
 
@@ -111,3 +125,5 @@ i před ohněm střechy;
 k dlouhým věkům dochovej
 
 všecky věrné Čechy!
+
+</section>

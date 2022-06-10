@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXI  
 
 ## DÍVČINA JAK DOBRÁ HODINA
@@ -89,3 +91,5 @@ trní a bodláčí:
 opustím-li dívčinu
 
 jako dobrou hodinu!
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXIV  
 
 ## POMILOVÁNÍ
@@ -53,3 +55,5 @@ není žádná pomoc,
 nastává k rozchodu čas,
 
 ach, kdy se sejdeme zas!
+
+</section>

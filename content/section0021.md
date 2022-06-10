@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XX  
 
 ## MILÝ NADE VŠECKO
@@ -61,3 +63,5 @@ chvílku postěžuju,
 s milým se potěším,
 
 zas vesela budu.
+
+</section>

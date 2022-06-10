@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXVI  
 
 ## DĚTSKÁ
@@ -43,3 +45,5 @@ hruštičku, jablíčko
 v kapsáři míváte,
 
 pro mne je chováte.“
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXIII  
 
 ## POMLUVA
@@ -53,3 +55,5 @@ jak by oni chtěli:
 pomlouvači vy o tobě
 
 dávno oněměli.“
+
+</section>

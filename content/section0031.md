@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXX  
 
 ## PTÁČE
@@ -37,3 +39,5 @@ musí nám zpívat,
 když budem večeřet.
 
 když budem snídat.
+
+</section>

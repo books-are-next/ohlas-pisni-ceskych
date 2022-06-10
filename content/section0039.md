@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXVIII  
 
 ## SVATEBNÍ DEN
@@ -199,3 +201,5 @@ k lovu síti hotovil,
 děsně rukama nad tůní
 
 rozpěněnou zalomil.
+
+</section>

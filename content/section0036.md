@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXV  
 
 ## MOCNOST OČÍ
@@ -25,3 +27,5 @@ což jí to předení
 jako mně myšlení
 
 nehezky zmotrchají.
+
+</section>

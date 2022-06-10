@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## III  
 
 ## CELOROČNÍ VÝŽIVA
@@ -75,3 +77,5 @@ což jste vy sladičky!
 Šípků, trnek natrháme,
 
 také si, Jeníčku, pochutnáme.
+
+</section>

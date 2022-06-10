@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXVI  
 
 ## KYTIČKY
@@ -33,3 +35,5 @@ z karafiátů a růžiček:
 dej si ji, můj milý,
 
 za klobouček.
+
+</section>

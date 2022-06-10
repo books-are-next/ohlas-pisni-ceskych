@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## L  
 
 ## PŘEMÝŠLENÍ
@@ -29,3 +31,5 @@ zamejšlí, vymejšlí,
 kde se to bejlí rodí,
 
 co se pro lásku hodí.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLIX  
 
 ## ODBYTÍ
@@ -46,7 +48,9 @@ je tu život mnohem lepší,
 
 vašeho nežádám.
 
-  
+</section>
+
+<section>
 
 Nebudete nic dělávat,
 
@@ -59,3 +63,5 @@ kdyby vás to netěšilo,
 věděla bych také dílo,
 
 moh' byste husy pást.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLVII  
 
 ## VRCHNÍ Z KOZLOVA
@@ -101,3 +103,5 @@ co s vámi včera jela?
 Padla mi do řeky,
 
 ona mně uplavala.“
+
+</section>

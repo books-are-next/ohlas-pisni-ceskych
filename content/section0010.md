@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## IX  
 
 ## PROKOP HOLÝ
@@ -197,3 +199,5 @@ záře z hradu svítí ještě nad borem,
 kudy roty táhnou dál na Rakusice:
 
 „Kdož jste bojovníci boží“ zpívajíce.
+
+</section>

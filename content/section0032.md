@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXXI  
 
 ## VÝMLUVA
@@ -25,3 +27,5 @@ Tím je to, má matičko, tím je to.“
 Hodili jsme jenom očkem po sobě,
 
 tím to je, má matičko, tím to je.“
+
+</section>

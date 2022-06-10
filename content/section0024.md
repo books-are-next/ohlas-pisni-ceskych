@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXIII  
 
 ## DÁREK Z LÁSKY
@@ -29,3 +31,5 @@ přijde-li k ztracení,
 nikdy potom není
 
 stříbrem ani zlatem k nahražení.
+
+</section>

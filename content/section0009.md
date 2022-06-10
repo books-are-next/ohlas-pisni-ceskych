@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## VIII  
 
 ## STARÝ ZAHRADNÍK
@@ -61,3 +63,5 @@ na jaře štěpovat;
 což vám někdy budou
 
 mládenci děkovat.
+
+</section>

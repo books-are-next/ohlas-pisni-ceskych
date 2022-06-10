@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLVIII  
 
 ## HUBIČKA
@@ -37,3 +39,5 @@ a druhou s rozjitím,
 však to není mnoho —
 
 ostatní mezi tím.
+
+</section>

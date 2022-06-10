@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## LVI  
 
 ## KALENDÁR A NE FARÁR
@@ -31,3 +33,5 @@ potom teprv prijdě poust,
 na memento mori
 
 ešče času dosť.“
+
+</section>

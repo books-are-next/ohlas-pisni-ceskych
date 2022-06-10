@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XLIV  
 
 ## ROZPAKY
@@ -21,3 +23,5 @@ a kdyby ztvrdnuly, byl by to hřích;
 pročež, milý Vašku,
 
 s chutí do nich!
+
+</section>

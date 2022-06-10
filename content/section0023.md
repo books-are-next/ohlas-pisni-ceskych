@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## XXII  
 
 ## KROTKÁ HOLUBIČKA
@@ -18,7 +20,9 @@ pase tam koníčky,
 
 a já za ním půjdu.
 
-  
+</section>
+
+<section>
 
 Holubička krotká
 
@@ -29,3 +33,5 @@ proč bysme taky tak
 neměli se zobkat,
 
 když jsme mladí obá.
+
+</section>
