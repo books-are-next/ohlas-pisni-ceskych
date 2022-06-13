@@ -16,6 +16,10 @@ ale mnohem sladší
 
 nežli ta jahůdka.
 
+</section>
+
+<section>
+
 Hubička, hubička
 
 na okamžiknutí,
@@ -24,6 +28,10 @@ jako dvou kvítečků
 
 slaďounké dotknutí.
 
+</section>
+
+<section>
+
 Hubičky, hubičky
 
 s milou si dáváme,
@@ -31,6 +39,10 @@ s milou si dáváme,
 kdy spolu podvečer
 
 za domem stáváme.
+
+</section>
+
+<section>
 
 Jednu při sejití,
 

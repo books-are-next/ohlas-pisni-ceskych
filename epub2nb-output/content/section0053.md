@@ -16,6 +16,10 @@ děvčátku na ruce hlaďoučké,
 
 děvčátku na ruce hladké.
 
+</section>
+
+<section>
+
 Ještě se nerozednívalo,
 
 ještě se nerozednilo,
@@ -24,6 +28,10 @@ za tmy to ptáčátko zpívalo,
 
 z osení vyletělo.
 
+</section>
+
+<section>
+
 Čemuž ta rybička maličká
 
 nad vodu vyskakuje?
@@ -31,6 +39,10 @@ nad vodu vyskakuje?
 Dívá se, zdaliže slunéčko
 
 z hory již vystupuje.
+
+</section>
+
+<section>
 
 Kukala kukačka v háječku,
 

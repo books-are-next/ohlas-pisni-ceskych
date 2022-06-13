@@ -16,6 +16,10 @@ kolo, péra jako vítr lítají,
 
 a po niti očka se skouzají.
 
+</section>
+
+<section>
+
 Jestliže ty oči
 
 na cívku zaskočí,

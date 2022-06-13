@@ -20,6 +20,10 @@ ctnou pannu Hejduli,
 
 Němkyni.
 
+</section>
+
+<section>
+
 On váží čtyry sta,
 
 a panna nevěsta
@@ -31,6 +35,10 @@ jako by na vozu
 padnul na pavuzu
 
 z růže květ.
+
+</section>
+
+<section>
 
 Co panna neváží,
 
@@ -44,6 +52,10 @@ měj se ke kozlíku,
 
 pojedem!“
 
+</section>
+
+<section>
+
 Ze vrat jsou vyjeli,
 
 pole projížděli,
@@ -55,6 +67,10 @@ z kopce nejednoho
 s nevěstou vrchního
 
 Pán Bůh snes.
+
+</section>
+
+<section>
 
 Při samém Kozlovu
 
@@ -68,6 +84,10 @@ prudká a široká —
 
 Blatnice.
 
+</section>
+
+<section>
+
 Ach běda, na brodu
 
 zlou měli příhodu
@@ -80,6 +100,10 @@ a panstvo vyložil
 
 měkce kdes.
 
+</section>
+
+<section>
+
 Sedláci v půnoci
 
 z těžké se roboty
@@ -91,6 +115,10 @@ z rákosí brahního
 jsou pana vrchního
 
 páčili.
+
+</section>
+
+<section>
 
 Ctný pane ženichu,
 

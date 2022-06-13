@@ -16,6 +16,10 @@ zpívá sobě cestičkou,
 
 že má mošnu plničkou.
 
+</section>
+
+<section>
+
 Ale blízko u Brodu
 
 zlou měl chuďas příhodu:
@@ -23,6 +27,10 @@ zlou měl chuďas příhodu:
 vojáci ho potkali
 
 hrozníčky mu pobrali.
+
+</section>
+
+<section>
 
 Běží Vávra od Brodu,
 
@@ -32,6 +40,10 @@ naříká si cestičkou,
 
 že má mošnu prázdničkou.
 
+</section>
+
+<section>
+
 Vojáci ho potkali,
 
 tuze ho litovali;
@@ -39,6 +51,10 @@ tuze ho litovali;
 v pole zašli, kde co našli,
 
 do mošny mu nandali.
+
+</section>
+
+<section>
 
 Běží Vávra hopky, hopky,
 

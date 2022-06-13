@@ -18,6 +18,10 @@ komuž odkážete
 
 tu pěknou oháňku?
 
+</section>
+
+<section>
+
 „Ten můj panický cop
 
 postavte mi na hrob,

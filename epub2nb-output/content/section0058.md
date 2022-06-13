@@ -50,6 +50,10 @@ Mívali jsme kabáty, čert je vzal,
 
 až halenu propijeme, půjdeme dál. -
 
+</section>
+
+<section>
+
 Připijme si, sedláčkové, za zdraví,
 
 sic nás o tu halenu čert připraví.

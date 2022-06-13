@@ -20,6 +20,10 @@ na koníčku sedlaném,
 
 čistě vyšperkovaném?“
 
+</section>
+
+<section>
+
 „Do Podhájí k myslivci
 
 musím ke své děvčici;
@@ -33,6 +37,10 @@ Dej, sestřičko, dej novou
 košiličku kmentovou,
 
 kamizolku růžovou.“
+
+</section>
+
+<section>
 
 Jiskra padla pod koníčkem,
 
@@ -50,6 +58,10 @@ dej se raděj v zápoli,
 
 ať mě srdce nebolí.“
 
+</section>
+
+<section>
+
 Nejel Toman doubravou,
 
 dal se cestičkou pravou;
@@ -61,6 +73,10 @@ nový domek jedna svíce,
 hostí mnoho pospolu,
 
 jizba plna hovoru.
+
+</section>
+
+<section>
 
 Smutkem Toman obklopen
 
@@ -83,6 +99,10 @@ dobrou vůli spolu měli,
 kůň že venku zařehtal,
 
 a mládenec zavzdychal.
+
+</section>
+
+<section>
 
 Panna jenom snoubená
 
@@ -108,6 +128,10 @@ dnes tu máme bližší hosti,
 
 hledej sobě jinde štěstí.“
 
+</section>
+
+<section>
+
 Toman koněm zatočil,
 
 v šíré pole poskočil,
@@ -132,6 +156,10 @@ proč vy, moje mladé dni,
 
 ve tmách jste se zasypaly!“
 
+</section>
+
+<section>
+
 Jede, jede doubravou,
 
 les šumí mu nad hlavou,
@@ -143,6 +171,10 @@ nad ouvalem sova houká;
 koník blýská očima,
 
 koník stříhá ušima.
+
+</section>
+
+<section>
 
 Cupy dupy z houštiny
 
@@ -159,6 +191,10 @@ půl kadeřmi černěné,
 a ze svatojanských broučků
 
 svítí pásek na kloboučku.
+
+</section>
+
+<section>
 
 Třikrát kolem jak střela
 
@@ -188,6 +224,10 @@ Lesní panna na jelenu,
 
 Toman cítí v srdci změnu.
 
+</section>
+
+<section>
+
 Jedou, jedou pospolu
 
 měkkým mechem do dolu,
@@ -216,6 +256,10 @@ Tomanovi rozkoš proudem
 
 prolila se každým oudem.
 
+</section>
+
+<section>
+
 Jedou, jedou dál a dál
 
 podlé řeky, podlé skal,
@@ -236,6 +280,10 @@ věčně nezachce se tobě.
 
 k mému bytu se mnou pluj!“
 
+</section>
+
+<section>
+
 To kdy panna zpívala,
 
 v ústa jezdce líbala,
@@ -247,6 +295,10 @@ Tomanovi srdce plesá,
 uzdu pouští, s koně klesá
 
 pod skalami prostřed lesa.
+
+</section>
+
+<section>
 
 Slunce vyšlo nad horu,
 

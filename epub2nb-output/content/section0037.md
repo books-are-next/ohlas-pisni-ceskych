@@ -22,6 +22,10 @@ vdovečku, přivoň si,
 
 na milou zpomeň si.
 
+</section>
+
+<section>
+
 Bude-li mládenec
 
 chtít si mě namlouvat,

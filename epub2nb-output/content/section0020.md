@@ -18,6 +18,10 @@ večerním tu časem
 
 zpívává slavíček.
 
+</section>
+
+<section>
+
 Divná věc, Bože můj!
 
 to stvoření ptačí
@@ -27,6 +31,10 @@ z hrdélka outlého
 na tolik sladkého
 
 jak zpěvu vystačí!
+
+</section>
+
+<section>
 
 Ale jest divnější
 
@@ -38,6 +46,10 @@ srdce panenského
 
 vstoupí tolik lásky.
 
+</section>
+
+<section>
+
 Ta když v otruchlelém
 
 srdci se rozmůže,
@@ -47,6 +59,10 @@ brzo proměněným
 tvářičkám červeným
 
 do hrobu pomůže.
+
+</section>
+
+<section>
 
 Když ráno vstávala,
 
@@ -58,6 +74,10 @@ do těžké nemoci
 
 miláček jediný.
 
+</section>
+
+<section>
+
 Smutná do kostela
 
 nevěsta spěchala,
@@ -67,6 +87,10 @@ a kudy chodila,
 k Bohu se modlila,
 
 žalostně plakala.
+
+</section>
+
+<section>
 
 A když jsou podvečer
 
@@ -78,6 +102,10 @@ jak mladí tak staří,
 
 naději pustili.
 
+</section>
+
+<section>
+
 Zvoní hrana, zvoní,
 
 panna již nechodí:
@@ -88,6 +116,10 @@ kvíteček usvadlý
 
 na lůžko se kloní.
 
+</section>
+
+<section>
+
 Zvoní trojí hrana,
 
 již nepláče panna:
@@ -97,6 +129,10 @@ do stropu dívá se,
 z hoře usmívá se,
 
 chvátá cos rukama.
+
+</section>
+
+<section>
 
 Patří, jak milého
 
@@ -118,6 +154,10 @@ a nic se neleká,
 
 tři hrstky naň hodí.
 
+</section>
+
+<section>
+
 Když bylo v půlnoci,
 
 slyší hlas nad sebou:
@@ -127,6 +167,10 @@ slyší hlas nad sebou:
 Srdéčko upokoj,
 
 zasnoubím se s tebou.“
+
+</section>
+
+<section>
 
 V nejpěknější šaty
 
@@ -138,6 +182,10 @@ z rozmarýny sama
 
 do vlasů vplítala.
 
+</section>
+
+<section>
+
 Větřík od západu
 
 chlaďounký zavívá:
@@ -147,6 +195,10 @@ hosté známou cestou
 berou se s nevěstou,
 
 kde ženich přebývá.
+
+</section>
+
+<section>
 
 Tam, kde bydlí spolu,
 

@@ -24,6 +24,10 @@ za pět prstů pěkné věci
 
 kupovat.
 
+</section>
+
+<section>
+
 Náš tatíček nebožtíček
 
 o nás málo dbal,
@@ -39,6 +43,10 @@ dobře mu zaplatili,
 na své oči div divoucí
 
 spatřili.
+
+</section>
+
+<section>
 
 Z kapsy vyndal píšťaličku,
 
@@ -56,6 +64,10 @@ potom dostal červeňoučký
 
 kabátek.
 
+</section>
+
+<section>
+
 Když zapískal na píšťalku
 
 po vsi, po městě,
@@ -71,6 +83,10 @@ podlé jeho tancovat,
 s hráze chutě do rybníka
 
 hopcovat.
+
+</section>
+
+<section>
 
 Ach, tatíčku nebožtíčku,
 

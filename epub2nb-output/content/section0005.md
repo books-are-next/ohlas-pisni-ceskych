@@ -16,6 +16,10 @@ ať nekouzlí, nečaruje
 
 naši mladou chasu.
 
+</section>
+
+<section>
+
 Běda tomu, Stasa komu
 
 čáry na krk hodí,
@@ -23,6 +27,10 @@ Běda tomu, Stasa komu
 jak to kuřátko po dešti
 
 schlípeně si chodí.
+
+</section>
+
+<section>
 
 Devět hochů otrávila
 
@@ -32,6 +40,10 @@ a okolo desátého
 
 svět se kolem točí.
 
+</section>
+
+<section>
+
 Devět hochů popálila
 
 plamenem svých tváří,
@@ -40,6 +52,10 @@ a čtyřem se zima s horkem
 
 po těle rozráží.
 
+</section>
+
+<section>
+
 Sám pan správce od ní chřadne,
 
 v tejle ho cos píchá,
@@ -47,6 +63,10 @@ v tejle ho cos píchá,
 k srdci ruku pořád tiskne,
 
 ku měsíčku vzdychá
+
+</section>
+
+<section>
 
 Utopte ji, upalte ji,
 

@@ -16,6 +16,10 @@ po zpěvu, po peří,
 
 blázen, kdo ti věří.
 
+</section>
+
+<section>
+
 Sedlák jde z hospody,
 
 cesta mu nestačí;
@@ -23,6 +27,10 @@ cesta mu nestačí;
 když přijde před pána,
 
 což je hned jinačí.
+
+</section>
+
+<section>
 
 Škrabe se za uchem,
 
@@ -32,6 +40,10 @@ jak by půl dušičky
 
 z něho vyletělo.
 
+</section>
+
+<section>
+
 „Jemnost pantatínku!
 
 letos není loni —
@@ -39,6 +51,10 @@ letos není loni —
 já řku… toto vono…
 
 bída nouzi honí.“
+
+</section>
+
+<section>
 
 Před pánem stejská si,
 

@@ -20,6 +20,10 @@ věru by se louky naše
 
 všecky zatopily.
 
+</section>
+
+<section>
+
 Ach, kdyby to vzdychání
 
 pohromadě bylo,

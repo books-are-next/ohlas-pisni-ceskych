@@ -20,6 +20,10 @@ z jednoho kvítečka
 
 nanic se uvíjela!
 
+</section>
+
+<section>
+
 Kolik jde kvítečků
 
 na pěknou kytičku,
