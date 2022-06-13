@@ -20,6 +20,10 @@ milý na památku,
 
 bude mít srdéčko zarmoucené.
 
+</section>
+
+<section>
+
 Každý to dobře ví,
 
 že i ten nejmenší

@@ -20,6 +20,10 @@ děláme koníčka,
 
 houpity, houpity, hou.“
 
+</section>
+
+<section>
+
 Pověz mi, holátko,
 
 zlaté pacholátko,
@@ -31,6 +35,10 @@ koho nejraději líbáš?
 má hladkou hubinku,
 
 tatíčkova píchá.“
+
+</section>
+
+<section>
 
 Pověz mi, holátko,
 

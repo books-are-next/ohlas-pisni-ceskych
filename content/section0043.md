@@ -16,6 +16,10 @@ všecko jsme zaseli,
 
 všecko vysázeli:
 
+</section>
+
+<section>
+
 zlatý po záhoně
 
 ovísek pro koně,
@@ -23,6 +27,10 @@ ovísek pro koně,
 ječmen a pšenici
 
 pro dům a pivnici;
+
+</section>
+
+<section>
 
 pro naše ženušky
 
@@ -32,6 +40,10 @@ růže pro děvčata,
 
 a ředkev pro vdovce…
 
+</section>
+
+<section>
+
 Jabloněk dvě kopě
 
 pro hodné mládence;
@@ -39,6 +51,10 @@ pro hodné mládence;
 olše a konopě
 
 pro taškáře…
+
+</section>
+
+<section>
 
 Všecko jsme zaseli,
 

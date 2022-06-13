@@ -16,6 +16,10 @@ milujeme se, má Haničko,
 
 dokud i nám květe.
 
+</section>
+
+<section>
+
 Na podzim v ořeší
 
 víc láska netěší:

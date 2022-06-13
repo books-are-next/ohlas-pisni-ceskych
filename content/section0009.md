@@ -16,6 +16,10 @@ komuž on, můj Bože,
 
 to děvče odchová?
 
+</section>
+
+<section>
+
 Každý v podivení
 
 její krásu vidí,
@@ -23,6 +27,10 @@ její krásu vidí,
 avšak divu není,
 
 že se nepřediví.
+
+</section>
+
+<section>
 
 Viděl jsem ji jednou,
 
@@ -32,6 +40,10 @@ jako by se růže
 
 z poupátka vyloupla.
 
+</section>
+
+<section>
+
 Pověz ty nám, pověz,
 
 starý zahradníčku,
@@ -39,6 +51,10 @@ starý zahradníčku,
 kdes vzal ten drahý květ,
 
 tu krásnou růžičku?
+
+</section>
+
+<section>
 
 „Sám jsem ji o sobě
 
@@ -48,6 +64,10 @@ a ze všeho kvítí
 
 nejvíc opatroval.“
 
+</section>
+
+<section>
+
 Vy milé matičky,
 
 dcerušky vezměte,
@@ -55,6 +75,10 @@ dcerušky vezměte,
 s nimi k zahradníku
 
 starému dojděte.
+
+</section>
+
+<section>
 
 Dejte je u něho
 

@@ -20,6 +20,10 @@ pojď za mnou, dej mi ruku,
 
 nespadneš do potoku.
 
+</section>
+
+<section>
+
 Poslechni mojí rady,
 
 půjdeme do zahrady;
@@ -32,6 +36,10 @@ já ti je, můj milý, dám,
 
 protože ráda tě mám.
 
+</section>
+
+<section>
+
 Cožpak tě polekalo,
 
 vždyť tu nic nevolalo:
@@ -43,6 +51,10 @@ jen ke mně připoj se,
 holoubek na stromu spí,
 
 měsíc ho ze sna budí.
+
+</section>
+
+<section>
 
 Měsíček, hvězdy taky
 

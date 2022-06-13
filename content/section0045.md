@@ -16,6 +16,10 @@ srdce mi v těle skáče,
 
 dva veliké koláče.
 
+</section>
+
+<section>
+
 Sním-li je, přeškoda na věky jich,
 
 a kdyby ztvrdnuly, byl by to hřích;

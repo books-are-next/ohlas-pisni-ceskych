@@ -12,9 +12,17 @@ contentType: poetry
 
 Kdo tě tak nerázně zbil?“
 
+</section>
+
+<section>
+
 Byl jsem mezi vlnaři,
 
 kožešníky, smrdaři.
+
+</section>
+
+<section>
 
 Ti mne vydělávali
 

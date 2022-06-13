@@ -22,6 +22,10 @@ a co dále — ač to vím,
 
 ne, ne, ne, to nepovím!
 
+</section>
+
+<section>
+
 Jakkoli se červenám,
 
 ráda slýchám, ráda mám,

@@ -16,6 +16,10 @@ jak by ho za týden
 
 na nebi nebylo.
 
+</section>
+
+<section>
+
 Kam kouknu, tam se mi
 
 tma sype do očí;
@@ -23,6 +27,10 @@ tma sype do očí;
 ach, kdy to slunéčko
 
 zpod mraku vyskočí!
+
+</section>
+
+<section>
 
 Chodím zarmoucena
 
@@ -32,6 +40,10 @@ co můj nejmilejší
 
 hněvy ke mně chová.
 
+</section>
+
+<section>
+
 Hněvá se, nevím proč —
 
 slovem se neblíží,
@@ -39,6 +51,10 @@ slovem se neblíží,
 raději než na mne
 
 do kouta pohlíží.
+
+</section>
+
+<section>
 
 Ptám-li se na něco,
 
@@ -48,6 +64,10 @@ dám-li mu dobrou noc,
 
 ano neodpoví.
 
+</section>
+
+<section>
+
 Tak všecka bývalá
 
 v domě radost mizí:
@@ -55,6 +75,10 @@ v domě radost mizí:
 máme se milovat,
 
 a jsme jako cizí.
+
+</section>
+
+<section>
 
 Snad jste vy, matičko,
 
@@ -64,6 +88,10 @@ vždyť jsem já před vámi
 
 vody nezkalila.
 
+</section>
+
+<section>
+
 Nebo ty, sestřičko,
 
 nepřeješ lásky nám:
@@ -71,6 +99,10 @@ nepřeješ lásky nám:
 přištíváš-li na mne,
 
 naprav tě Pán Bůh sám.
+
+</section>
+
+<section>
 
 Můj zlatý mužíčku,
 
@@ -80,6 +112,10 @@ jestli jsem chybila,
 
 radši mne vyhubuj.
 
+</section>
+
+<section>
+
 Radši mne vyhubuj,
 
 přijmu i zlá slova;
@@ -87,6 +123,10 @@ přijmu i zlá slova;
 ale tvá nemluvnost
 
 k smrti se mi rovná.
+
+</section>
+
+<section>
 
 „S kýmpak jsi se vedla
 
@@ -96,6 +136,10 @@ Však jsou tě viděli,
 
 máš z toho pěknou čest!“
 
+</section>
+
+<section>
+
 S kýmže jsem se vedla —
 
 byl to můj bratříček,
@@ -103,6 +147,10 @@ byl to můj bratříček,
 provázel mě domů
 
 večír přes lesíček.
+
+</section>
+
+<section>
 
 Mužíčku můj milý!
 

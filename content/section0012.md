@@ -24,6 +24,10 @@ ach škoda, přeškoda,
 
 že kořínků nemá!
 
+</section>
+
+<section>
+
 Ach žalost, ach žalost,
 
 hořký to kořínek,

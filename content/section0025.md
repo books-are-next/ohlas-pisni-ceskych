@@ -16,6 +16,10 @@ sotva přejdeš jedny hory,
 
 hned se najdou jiné.
 
+</section>
+
+<section>
+
 Je to život na tom světě —
 
 že by člověk utek:
@@ -23,6 +27,10 @@ Je to život na tom světě —
 ještě nezažil jsi jeden,
 
 máš tu druhý smutek.
+
+</section>
+
+<section>
 
 Což je pánům! Ti na voze
 
@@ -32,6 +40,10 @@ ale chudý, ten za nimi
 
 v dešti, blátě kluše.
 
+</section>
+
+<section>
+
 Ej, co já dbám na té cestě
 
 na psoty a sloty,
@@ -40,6 +52,10 @@ jen když já mám zdravé nohy,
 
 k tomu dobré boty.
 
+</section>
+
+<section>
+
 Však na pány v krytém voze
 
 taky někdy trhne:
@@ -47,6 +63,10 @@ taky někdy trhne:
 jednou se jim kolo zláme,
 
 jindy vůz se zvrhne.
+
+</section>
+
+<section>
 
 A krom toho — až své pouti
 

@@ -20,6 +20,10 @@ ach, to je vám dívčina
 
 jako dobrá hodina!
 
+</section>
+
+<section>
+
 Dám-li se do skákání,
 
 hupky za mnou skáče;
@@ -31,6 +35,10 @@ hned mi kvůli pláče:
 ach, to je vám dívčina
 
 jako dobrá hodina!
+
+</section>
+
+<section>
 
 Jestliže ji požádám
 
@@ -44,6 +52,10 @@ Ach, to je vám dívčina
 
 jako dobrá hodina!
 
+</section>
+
+<section>
+
 Ondyno jsme v poledne
 
 pod lesíčkem stáli,
@@ -55,6 +67,10 @@ sladce na mne smály:
 ach, to je vám dívčina
 
 jako dobrá hodina!
+
+</section>
+
+<section>
 
 Já řku: hle, již měsíček
 
@@ -68,6 +84,10 @@ Ach, to je vám dívčina
 
 jako dobrá hodina!
 
+</section>
+
+<section>
+
 Otčenášek v kostele
 
 za mne odříkává,
@@ -79,6 +99,10 @@ pro sebe nechává:
 ach, to je vám dívčina
 
 jako dobrá hodina!
+
+</section>
+
+<section>
 
 Nech moje štěstí mine,
 

@@ -22,6 +22,10 @@ cožpak jí schází, co chybí
 
 mé krásné Kordule?
 
+</section>
+
+<section>
+
 Jakživ nikdo neměl a nemá
 
 krásnější panenku jako já;
@@ -39,6 +43,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 
@@ -61,6 +69,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 
@@ -87,6 +99,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 
@@ -117,6 +133,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 
@@ -151,6 +171,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 
@@ -189,6 +213,10 @@ jako dvě cibule:
 cožpak jí schází, co chybí
 
 mé krásné Kordule?
+
+</section>
+
+<section>
 
 Jakživ nikdo neměl a nemá
 

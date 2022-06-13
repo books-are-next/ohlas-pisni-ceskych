@@ -24,6 +24,10 @@ Chraň ji před luňákem,
 
 tím zlodějským ptákem.
 
+</section>
+
+<section>
+
 Táhne mračno proti mračnu,
 
 V stromech vítr bouří,
@@ -40,6 +44,10 @@ Chraň ji před luňákem,
 
 tím zlodějským ptákem.
 
+</section>
+
+<section>
+
 Táhne mračno proti mračnu,
 
 v stromech vítr bouří,
@@ -55,6 +63,10 @@ Kdeže máš holubičku?
 Chraň ji před luňákem,
 
 tím zlodějským ptákem.
+
+</section>
+
+<section>
 
 Táhne mračno proti mračnu,
 

@@ -18,6 +18,10 @@ zabloudím v lesíčku,
 
 padnu do závěje.“
 
+</section>
+
+<section>
+
 Zle nám, milý, zle nám,
 
 odcházet ti nedám:
@@ -28,6 +32,10 @@ snad bude pomoci,
 
 já ti posla zjednám.
 
+</section>
+
+<section>
+
 Vstávej, milý, vstávej,
 
 více neodkládej;
@@ -37,6 +45,10 @@ poslíček přicházím
 za horou vychází,
 
 doma si dospávej.
+
+</section>
+
+<section>
 
 Měsíčku blýskavý,
 

@@ -20,6 +20,10 @@ aj, aj, aj —
 
 na zahrádce máj!
 
+</section>
+
+<section>
+
 „Máj, máj, máj —
 
 zelená se háj!
@@ -32,6 +36,10 @@ máj, máj, máj —
 
 zelená se háj!“
 
+</section>
+
+<section>
+
 Háj, háj, háj —
 
 ve srdéčku ráj!
@@ -43,6 +51,10 @@ postelu ti jimi lůže:
 háj, háj, háj —
 
 ve srdéčku ráj!
+
+</section>
+
+<section>
 
 „Ráj, ráj, ráj
 

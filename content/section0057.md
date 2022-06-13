@@ -22,6 +22,10 @@ ver ta tvoja mladosť
 
 skoro uteče.
 
+</section>
+
+<section>
+
 „Ej, čo já dbám na farára,
 
 já sa trímám kalendára:

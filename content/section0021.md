@@ -16,6 +16,10 @@ jen když já k sobě mám
 
 miláčka věrného.
 
+</section>
+
+<section>
+
 Dobře se mu leží,
 
 kdo sám si ustele;
@@ -23,6 +27,10 @@ kdo sám si ustele;
 čemuž mně bráníte
 
 v lásce, vy přátelé?
+
+</section>
+
+<section>
 
 To jsou mi přátelé!
 
@@ -32,6 +40,10 @@ hořec mi do duše,
 
 peluňku do srdce.
 
+</section>
+
+<section>
+
 K horám se podívám,
 
 půjdu na půdičku,
@@ -39,6 +51,10 @@ půjdu na půdičku,
 jede-li můj milý
 
 na vraném koníčku.
+
+</section>
+
+<section>
 
 Jede po háječku,
 
@@ -48,6 +64,10 @@ jako ta potápka,
 
 co pod vodou pluje.
 
+</section>
+
+<section>
+
 Vyjíždí z ouvozu,
 
 skáče po ouhoru;
@@ -55,6 +75,10 @@ skáče po ouhoru;
 jaké to toužení
 
 po mém potěšení!
+
+</section>
+
+<section>
 
 Chvílku si potoužím,
 

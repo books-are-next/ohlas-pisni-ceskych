@@ -16,6 +16,10 @@ Bývalá ty má radosti,
 
 kam jsi ty se poděla?
 
+</section>
+
+<section>
+
 Zdali k zemi padši, dáváš
 
 krásu jarním poupatům?
@@ -23,6 +27,10 @@ krásu jarním poupatům?
 Aneb k nebi vystoupivši,
 
 barvu letním oblakům?
+
+</section>
+
+<section>
 
 Není, není mezi kvítím,
 

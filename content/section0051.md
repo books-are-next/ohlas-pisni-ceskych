@@ -20,6 +20,10 @@ odkud se bláto brává,
 
 proč zelená je tráva.
 
+</section>
+
+<section>
+
 Čemuž ta naše Liduška
 
 v noci po dvorku chodí?

@@ -22,6 +22,10 @@ ty málo máš, já nic nazbyt,
 
 budem spolu dobře hospodařit.
 
+</section>
+
+<section>
+
 V zimě se nestarej,
 
 čím se obživíme,
@@ -35,6 +39,10 @@ budou nám na dolky,
 šišek z lesa nanosíme,
 
 a ještě sousedy podělíme.
+
+</section>
+
+<section>
 
 Když jaro přiletí,
 
@@ -50,6 +58,10 @@ pakli soli, másla není,
 
 řeřicha nám bude za koření.
 
+</section>
+
+<section>
+
 Náš kmotr rozpráví,
 
 horko prej netráví,
@@ -63,6 +75,10 @@ díla plné ruce,
 ty umíš kosit, já umím žít,
 
 do sebe, na sebe budeme mít.
+
+</section>
+
+<section>
 
 Na podzim na houby
 

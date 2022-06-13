@@ -16,6 +16,10 @@ do smutku, do pláče
 
 nikdy se mi nechce.
 
+</section>
+
+<section>
+
 V celém živobytí
 
 jednou se mi chtělo,
@@ -23,6 +27,10 @@ jednou se mi chtělo,
 když děvče ani já
 
 peníze nemělo.
+
+</section>
+
+<section>
 
 Prorokovala mně
 
@@ -32,6 +40,10 @@ nebožka babička,
 
 před časem hlavička.
 
+</section>
+
+<section>
+
 Hlavička před časem,
 
 a brada po čase:
@@ -39,6 +51,10 @@ a brada po čase:
 že jste uhodnula,
 
 babičko, nezdá se.
+
+</section>
+
+<section>
 
 „Kohož to vezete,
 
@@ -48,6 +64,10 @@ Jeďte polehoučku,
 
 sic se vůz rozboří.“
 
+</section>
+
+<section>
+
 Čerta vím, co vezu —
 
 půl pána, půl břicha:
@@ -56,6 +76,10 @@ jak ho naložili,
 
 chrápe do kožicha.
 
+</section>
+
+<section>
+
 Čtyři koně vrané,
 
 mezi nimi voje —
@@ -63,6 +87,10 @@ mezi nimi voje —
 ale co je po nich,
 
 nejsou, brachu, moje.
+
+</section>
+
+<section>
 
 Čtyři koně vrané,
 

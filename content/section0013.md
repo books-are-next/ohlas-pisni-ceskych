@@ -26,6 +26,10 @@ krásných tam děvčátek
 
 kolik tisíc.
 
+</section>
+
+<section>
+
 Byla tam, byla
 
 taky má milá,
@@ -43,6 +47,10 @@ sestrám obrázečky,
 ale mně srdýčko
 
 z marcipánu.
+
+</section>
+
+<section>
 
 Vezmu dva česká,
 

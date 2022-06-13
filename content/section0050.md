@@ -10,6 +10,10 @@ contentType: poetry
 
 Šlechtic:  
 
+</section>
+
+<section>
+
 Aj, dívčino, perlo drahá,
 
 kde jsi se tu na vsi vzala,
@@ -21,6 +25,10 @@ Pro tebe je lepší cesta,
 pojeď ty se mnou do města,
 
 budeš mít půl nebe.
+
+</section>
+
+<section>
 
 Nebudeš tam nic dělávat,
 
@@ -34,7 +42,15 @@ druhý projde v objímání,
 
 třetí v namlouvání.
 
+</section>
+
+<section>
+
 Děvče:
+
+</section>
+
+<section>
 
 Aj, panáčku, odkudže jste?
 
