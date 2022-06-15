@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "celakovsky-ohlas-pisni-ceskych-f71d404",
-  "revision": "f71d404",
+  "identifier": "celakovsky-ohlas-pisni-ceskych-9ff12df",
+  "revision": "9ff12df",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -75,8 +75,8 @@
     "section0059.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:56:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157385182
+    "date": "Wed Jun 15 2022 05:53:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272417173
   },
   "documents": [
     {
