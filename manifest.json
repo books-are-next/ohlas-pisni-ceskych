@@ -5,11 +5,11 @@
   "title": "Ohlas písní českých",
   "author": "František Ladislav Čelakovský",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "celakovsky-ohlas-pisni-ceskych-9ff12df",
-  "revision": "9ff12df",
+  "identifier": "celakovsky-ohlas-pisni-ceskych-dcde352",
+  "revision": "dcde352",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -75,8 +75,8 @@
     "section0059.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272417173
+    "date": "Thu Jun 16 2022 12:02:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655380944410
   },
   "documents": [
     {
@@ -2220,7 +2220,7 @@
   "totals": {
     "all": {
       "words": 6321,
-      "chars": 35189,
+      "chars": 35187,
       "ideas": 1701
     },
     "chapters": {

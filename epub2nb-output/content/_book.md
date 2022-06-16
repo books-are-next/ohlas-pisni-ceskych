@@ -9,7 +9,7 @@ meta:
   title: Ohlas písní českých
   identifier: 62ba0934-96a6-4765-abd2-228cea2ed11f
   author: František Ladislav Čelakovský
-  edition: beletrie
+  edition: poezie
   publisherShort: mkp
   publisher: Městská knihovna v Praze
 readingOrder:
